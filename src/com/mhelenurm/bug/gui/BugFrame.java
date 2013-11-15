@@ -97,7 +97,7 @@ public class BugFrame extends JFrame {
 		display.setSize(width, height);
 		display.setLocation(0, 0);
 		getContentPane().add(display);
-		setBackground(new Color(255, 0, 0, 0));
+		//setBackground(new Color(255, 0, 0, 0));
 		setUndecorated(true);
 	}
 
